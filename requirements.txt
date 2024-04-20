@@ -1,0 +1,4 @@
+Pillow 
+hashlib
+tkinter
+tk
